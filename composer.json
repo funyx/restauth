@@ -1,0 +1,17 @@
+{
+    "name": "funyx/restauth",
+    "description": "atk4 auth module",
+    "type": "library",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Dimitar Dobchev",
+            "email": "ddobchev@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+  	"autoload": {
+	  	"RestAuth\\": "lib/"
+	}
+}
