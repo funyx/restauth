@@ -12,6 +12,8 @@
     "minimum-stability": "dev",
     "require": {},
   	"autoload": {
-	  	"RestAuth\\": "lib/"
+		"psr-4": {
+		 	"RestAuth\\": "lib/"
+		}
 	}
 }
